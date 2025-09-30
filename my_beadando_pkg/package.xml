@@ -4,7 +4,7 @@
   <version>0.0.0</version>
   <description>Kis beadandó ROS2 package</description>
 
-  <maintainer email="aj@todo.todo">aj</maintainer>
+  <maintainer email="semseyandras12@gmail.com">Semsey András</maintainer>
   <license>Apache-2.0</license>
 
   <!-- függőségek -->
